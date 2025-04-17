@@ -1,0 +1,3 @@
+[2023-01-01 12:00:00] INFO django.requests GET /api/v1/auth/login/
+[2023-01-01 12:00:01] DEBUG django.requests GET /api/v1/auth/login/
+[2023-01-01 12:00:02] WARNING django.requests POST /admin/
