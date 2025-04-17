@@ -96,8 +96,8 @@ pytest
 ```bash
 pytest --cov=.
 ```
+Результаты:
 
-## Требования
+<img width="761" alt="result" src="https://github.com/user-attachments/assets/6829ec8f-bad9-4e92-a717-1a899d2dfe61" />
 
-- Python 3.8+
-- Стандартная библиотека Python
+
